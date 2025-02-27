@@ -15,6 +15,4 @@ To run this notebook:
 3. Open the notebook in Jupyter Lab/Notebook
 4. Run the cells sequentially
 
-## License
 
-This project is open source and available under the MIT License.
